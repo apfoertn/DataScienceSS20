@@ -20,7 +20,7 @@ Course materials for the Data Science online class in SS20.
 * [Python Intro Part 4](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/04_control_flow.ipynb)
 * [Python Intro Part 5](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/05_functions.ipynb)
 * [Python Intro Part 6](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/06_classes.ipynb)
-* [Python Intro Part 7](https://colab.research.google.com/github/v/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/07_modules.ipynb)
+* [Python Intro Part 7](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/01_c_Python-Intro/07_modules.ipynb)
 #### MatPlotLib
 * [Intro MatPlotLib](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/01_d_MatplotLib-Intro/Matplotlib-Intro.ipynb)
 
