@@ -50,5 +50,17 @@ Please upload your solutions via Moodle!
 * [Exercise 2_a](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
 * [Exercise 2_b](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
 
+## Block 3 - Data Wrangling
+
+### Static Slides
+* [Data Wrangling](Slides/03_a_Data_Wrangling.pdf)
+* [Basic Statistics](Slides/03_b_Basic_Statistics.pdf)
+* [The Group By Pattern](Slides/03_c_Group_By.pdf)
+
+
+### Notebooks
+* [Data Wrangling](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_a_Data_Wrangling.ipynb)
+* [Basic Statistics](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
+* [The Group By Pattern](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
 
 
