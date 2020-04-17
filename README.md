@@ -63,4 +63,22 @@ Please upload your solutions via Moodle!
 * [Basic Statistics](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_b_Basic_Statistics.ipynb)
 * [The Group By Pattern](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/3_c_GroupBy.ipynb)
 
+### Lab
+* [Pandas Intro Part 1](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_01.ipynb)
+* [Pandas Intro Part 2](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_02.ipynb)
+* [Pandas Intro Part 3](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_03.ipynb)
+* [Pandas Intro Part 4](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_04.ipynb)
+* [Pandas Intro Part 5](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_05.ipynb)
+* [Pandas Intro Part 6](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_06.ipynb)
+* [Pandas Intro Part 7](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
+
+### Exercises
+* [3_a_Basic Pandas](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )
+* [3_d_GroupBy I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)
+* [3_f_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_III.ipynb)
+
+
 
