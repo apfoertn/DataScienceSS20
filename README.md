@@ -26,8 +26,8 @@ Course materials for the Data Science online class in SS20.
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 1_a](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb)
-* [Exercise 1_b](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)
+* [Exercise 1_a](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_a_Python.ipynb) [--Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_a_Solution.ipynb)
+* [Exercise 1_b](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_b_MatplotLib.ipynb)[ --Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/1_b-Solution.ipynb)
 
 ## Block 2 - Recommender Systems
 
@@ -47,8 +47,10 @@ Please upload your solutions via Moodle!
 
 ### Exercises
 Please upload your solutions via Moodle!
-* [Exercise 2_a](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb)
-* [Exercise 2_b](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb)
+* [Exercise 2_a](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_a_Numpy.ipynb) [--Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_a_Solution.ipynb)
+
+* [Exercise 2_b](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_b_Recommender_SVD.ipynb) [--Solution--](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/2_b-Solution.ipynb)
+
 
 ## Block 3 - Data Wrangling
 
