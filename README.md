@@ -101,8 +101,8 @@ Please upload your solutions via Moodle!
 
 
 ### Exercises
-* [4_g_Clustering_I](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb)
-* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb)
+* [4_g_Clustering_I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb) [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I_solution.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb) [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II_solution.ipynb)
 
 
 ## Block 5 - Machine Learning III-IV
