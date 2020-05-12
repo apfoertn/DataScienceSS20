@@ -117,6 +117,22 @@ Please upload your solutions via Moodle!
 * [Statistics II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
 
 ### Exercises
-* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)
-* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
 
+
+## Block 6- Machine Learning V-VII
+
+### Static Slides
+* [Machine Learning V - Non-Linear Models I](Slides/06_a_Machine_Learning_V_nonlinear_models_part_I.pdf)
+* [Machine Learning V - Non-Linear Models II - SVM](Slides/06_b_Machine_Learning_V_nonlinear_models_part_II.pdf)
+* [Machine Learning VI - Outlier Detection](Slides/06_c_Machine_Learning_VI_outlier_detection.pdf)
+* [Machine Learning VII - Model Selectionn](Slides/06_d_Machine_Learning_VII_Model_Selection.pdf)
+* [Python Lambda Expressions](Slides/06_e_Python_lambda.pdf)
+
+### Notebooks
+* [Python Lambda Expressions](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
+
+### Exercises
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)
