@@ -117,8 +117,8 @@ Please upload your solutions via Moodle!
 * [Statistics II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
 
 ### Exercises
-* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
-* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
 
 
 ## Block 6- Machine Learning V-VII
