@@ -134,8 +134,8 @@ Please upload your solutions via Moodle!
 * [Python Lambda Expressions](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
 
 ### Exercises
-* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
-* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
 
 ## Block 7 - Deep Learnig
 
@@ -147,8 +147,8 @@ Please upload your solutions via Moodle!
 * [Keras Intro](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
 
 ### Exercises
-* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
-* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
 
 
 ## Block 8 - Deep Learnig
