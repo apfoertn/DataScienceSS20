@@ -144,11 +144,11 @@ Please upload your solutions via Moodle!
 * [Introduction to Deep Learning](Slides/07_b_Deep_Learning_Introduction.pdf)
 
 ### Notebooks
-* [Keras Intro](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
+* [Keras Intro](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
 
 ### Exercises
-* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
-* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
 
 
 ## Block 8 - Deep Learnig
