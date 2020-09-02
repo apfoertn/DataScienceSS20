@@ -75,12 +75,12 @@ Please upload your solutions via Moodle!
 * [Pandas Intro Part 7](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/03_c_Pandas-Intro/pandas_07.ipynb)
 
 ### Exercises
-* [3_a_Basic Pandas](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
-* [3_b_Baby Names](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
-* [3_c_Titanic](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
-* [3_d_GroupBy I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
-* [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
-* [3_e_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
+* [3_a_Basic Pandas](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_a_Basic_Pandas.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_a_solution.ipynb)
+* [3_b_Baby Names](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_b_Baby_Names.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_b_solution.ipynb)
+* [3_c_Titanic](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_c_Titanic.ipynb )[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_c_solution.ipynb)
+* [3_d_GroupBy I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_d_GroupBy_I.ipynb)[ -- solution -- ](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_d_solution.ipynb)
+* [3_e_GroupBy II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_e_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_e_solution.ipynb)
+* [3_e_GroupBy III](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/3_f_GroupBy_II.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/3_f_solution.ipynb)
 
 ## Block 4 - Machine Learning I-II
 
@@ -101,8 +101,8 @@ Please upload your solutions via Moodle!
 
 
 ### Exercises
-* [4_g_Clustering_I](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb) [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I_solution.ipynb)
-* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb) [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II_solution.ipynb)
+* [4_g_Clustering_I](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I.ipynb) [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_g_Clustering_I_solution.ipynb)
+* [4_h_Clustering_NY_Taxi](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II.ipynb) [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/4_h_Clustering_II_NY_Taxy_II_solution.ipynb)
 
 
 ## Block 5 - Machine Learning III-IV
@@ -114,11 +114,11 @@ Please upload your solutions via Moodle!
 
 
 ### Notebooks
-* [Statistics II](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
+* [Statistics II](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/05_a_Statistics_Part_II.ipynb)
 
 ### Exercises
-* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
-* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
+* [5_a_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_a_Classification.ipynb)  [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/5_a_Classification_solution.ipynb)
+* [5_b_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxy.ipynb)  [ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/5_b_Regression_NY_Taxi_solution.ipynb)
 
 
 ## Block 6 - Machine Learning V-VII
@@ -134,8 +134,8 @@ Please upload your solutions via Moodle!
 * [Python Lambda Expressions](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/06_Lambda_Operators.ipynb)
 
 ### Exercises
-* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
-* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
+* [6_a_Non-Linear_Classification_MNIST](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_a_Non-Linear_Classification_solution.ipynb)
+* [6_b_Bayes_Optimization_Regression_NY_Taxi](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/6_b_AutoSkLearn_Regression_NY_Taxy_solution.ipynb)
 
 ## Block 7 - Deep Learnig
 
@@ -144,11 +144,11 @@ Please upload your solutions via Moodle!
 * [Introduction to Deep Learning](Slides/07_b_Deep_Learning_Introduction.pdf)
 
 ### Notebooks
-* [Keras Intro](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
+* [Keras Intro](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Notebooks/07_c_keras_intro.ipynb)
 
 ### Exercises
-* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
-* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
+* [7_a_Outlier_Detection_with Autoencoders](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_a_Autoencoder_solution.ipynb)
+* [7_b_Image_Classification_with_CNNs](https://colab.research.google.com/github/YOUR_USER_NAME_HERE/DataScienceSS20/blob/master/Exercises/7_b_CNNs.ipynb)[ -- solution --](https://colab.research.google.com/github/apfoertn/DataScienceSS20/blob/master/Exercises/7_b_CNNs_solution.ipynb)
 
 
 ## Block 8 - Deep Learnig
